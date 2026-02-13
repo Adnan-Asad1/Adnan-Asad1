@@ -1,9 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Full Stack Projects
+# 💫 About Me: Hi 👋, I'm Adnan Asad
+**A passionate Software Engineer || Full Stack Developer ||  Data sciencetist from Pakistan**
+
+Email Me 👉 ✉️ **daniiasad786@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Smart Hire Project
+- 🌱 **I’m currently learning:** Next.js 
+- 👯 **I’m looking to collaborate on:** Smart Hie Project 
+- 🤔 **I’m looking for help with:** Eco-Smart and Smart Hie Projects
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** daniiasad786@gmail.com
+- 😄 **Pronouns:** Adnan Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Adnan Asad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/strangerr_071) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-asad-developer/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@am_danii11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ADNAN_071) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniiasad786@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AdnanAsad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/strangerr_071) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-asad-developer/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@am_danii11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ADNAN_071) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniiasad786@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
