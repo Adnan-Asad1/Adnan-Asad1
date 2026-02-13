@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Adnan Asad
 **A passionate Software Engineer || Full Stack Developer ||  Data sciencetist from Pakistan**
 
-Email Me 👉 ✉️ **daniiasad786@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **22021519-071@uog.edu.pk** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Smart Hire Project
 - 🌱 **I’m currently learning:** Next.js 
