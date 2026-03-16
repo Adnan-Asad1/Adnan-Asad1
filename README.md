@@ -26,6 +26,8 @@ Email Me 👉 ✉️ **22021519-071@uog.edu.pk** For Collaboration/Project or An
 
 
 <!-- Snake Game Repo View -->
+
+## Contributions Fusion
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
